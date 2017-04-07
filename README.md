@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/js-beautify.png?downloads=true)](https://www.npmjs.com/package/js-beautify)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-js-beautify/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-js-beautify_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-js-beautify/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-js-beautify/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-js-beautify%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-js-beautify/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-js-beautify/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-js-beautify/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-js-beautify/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
